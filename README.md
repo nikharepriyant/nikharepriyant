@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web development and Back-end development languages**
 
-- 💬 Ask me about **C, C++, HTML**
+- 💬 Ask me about **C, C++, HTML, CSS, Java**
 
 - 📫 How to reach me **developerpriyant@gmail.com**
 
