@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikharepriyant&label=Profile%20views&color=0e75b6&style=flat" alt="nikharepriyant" /> </p>
 
-- 🔭 I’m currently studing at **Jhulelal Institute of Technology**
+- 🔭 I’m currently studying at **Jhulelal Institute of Technology**
 
 - 🌱 I’m currently learning **Web development and Back-end development languages**
 
