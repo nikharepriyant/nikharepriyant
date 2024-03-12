@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🔭 I’m currently studying at Jhulelal Institute of Technology, Nagpur
 - 🌱 I’m currently learning Web Development and Back-End Development languages
 - 💬 Ask me about Technology & Finance
-- 📫 How to reach me: nikharepriyant@gmail.com
+- 📫 How to reach me: work.nikharepriyant@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
 <a href="https://www.github.com/nikharepriyant" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/nikharepriyant?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
